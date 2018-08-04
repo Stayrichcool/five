@@ -1,0 +1,3 @@
+1、编译内核之前把.config 文件复制到内核源码文件夹
+2、内核MTD（linux-3.0.101/arch/mips/loongson1/ls1c/ls1c300b_cbiiv0a_board.c）根据pmon（loongson1-pmon-master/Targets/LS1X/dev/ls1x_nand.c）改
+
